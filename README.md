@@ -3,7 +3,7 @@
  <img align="right" alt="baby yoda" height="150" style="border-radius:50px;" src="https://cutewallpaper.org/27/baby-yoda-gif-wallpaper/baby-yoda-gif-babyyoda-discover-share-gifs-yoda-sticker-yoda-wallpaper-yoda-drawing.gif">
 
 <br> – Estudante de **Análise e Desenvolvimento de Sistema** na <a href="https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas-c/">UniAmérica</a>.
-<br> – Atuo como analista de processos e **busco minha primeira experiência como desenvolvedora**. 
+<br> – Atuo como Desenvolvedora Java na Vivo. 
 <br> – Explorando novas tecnologias e desenvolvendo soluções de software.
 <br> – Principais **Soft Skills**: análise, liderança, gestão de pessoas, proatividade e comunicação.
 
@@ -14,9 +14,9 @@
 <h3> :rocket: &nbsp;Hard Skills </h3>
 
 **Aplicações e Dados**
- 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
   ![Java](https://img.shields.io/badge/Java-ED8B00.svg?logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
