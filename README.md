@@ -7,6 +7,8 @@
 <br> – Explorando novas tecnologias e desenvolvendo soluções de software.
 <br> – Principais **Soft Skills**: análise, liderança, gestão de pessoas, proatividade e comunicação.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
  ##
  
 <h3> :rocket: &nbsp;Hard Skills </h3>
