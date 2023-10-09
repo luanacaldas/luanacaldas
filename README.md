@@ -15,7 +15,7 @@
 
 **Aplicações e Dados**
  
-<img loading="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+<img loading="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>
 
 
 **DevOps**
