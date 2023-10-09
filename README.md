@@ -3,7 +3,7 @@
  <img align="right" alt="baby yoda" height="150" style="border-radius:50px;" src="https://cutewallpaper.org/27/baby-yoda-gif-wallpaper/baby-yoda-gif-babyyoda-discover-share-gifs-yoda-sticker-yoda-wallpaper-yoda-drawing.gif">
 
 <br> – Estudante de **Análise e Desenvolvimento de Sistema** na <a href="https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas-c/">UniAmérica</a>.
-<br> – Atuo como Desenvolvedora Java na Vivo. 
+<br> – Atuo como **Desenvolvedora Java** na Vivo. 
 <br> – Explorando novas tecnologias e desenvolvendo soluções de software.
 <br> – Principais **Soft Skills**: análise, liderança, gestão de pessoas, proatividade e comunicação.
 
