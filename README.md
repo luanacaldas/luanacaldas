@@ -2,7 +2,7 @@
 
 <img align="right" alt="baby yoda" height="150" style="border-radius:50px;" src="https://cutewallpaper.org/27/baby-yoda-gif-wallpaper/baby-yoda-gif-babyyoda-discover-share-gifs-yoda-sticker-yoda-wallpaper-yoda-drawing.gif">
 
-- Studying **Systems Analysis and Development** at [UniAmérica](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas-c/).
+- Studying **Systems Analysis and Development**.
 - Currently working as a **Java Developer** at Vivo.
 - Passionate about diving into new technologies and crafting software solutions.
 - Key **Soft Skills**: analysis, leadership, people management, proactivity, and communication.
@@ -22,14 +22,15 @@
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![HTTP](https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png)
+![REST](https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png)
+![Git](https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
 
 **Development Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Figma](https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png)
 
 ## 🌎 Where to Find Me
 
