@@ -2,7 +2,7 @@
 
 <img align="right" alt="baby yoda" height="150" style="border-radius:50px;" src="https://cutewallpaper.org/27/baby-yoda-gif-wallpaper/baby-yoda-gif-babyyoda-discover-share-gifs-yoda-sticker-yoda-wallpaper-yoda-drawing.gif">
 
-- Studying **Systems Analysis and Development** at [UniAmérica](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas-c/).
+- Studying **Systems Analysis and Development**.
 - Currently working as a **Java Developer** at Vivo.
 - Passionate about diving into new technologies and crafting software solutions.
 - Key **Soft Skills**: analysis, leadership, people management, proactivity, and communication.
@@ -28,7 +28,6 @@
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev)
-[![Oracle](https://skillicons.dev/icons?i=oracle)](https://skillicons.dev)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 [![Microsoft Azure](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
 
@@ -36,9 +35,6 @@
 
 [![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-[![Canva](https://skillicons.dev/icons?i=canva)](https://skillicons.dev)
-[![IntelliJ](https://skillicons.dev/icons?i=intellij)](https://skillicons.dev)
-[![Jira](https://skillicons.dev/icons?i=jira)](https://skillicons.dev)
 [![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
 
 ## 🌎 Where to Find Me
