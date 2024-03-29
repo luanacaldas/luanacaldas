@@ -1,5 +1,9 @@
 ## ☕ Hey there, I'm <strong>Luana!</strong>
 
+[![My Skills](https://skillicons.dev/icons?i=http,rest,git,gitlab,intellij,vscode,jira,eclipse,html,css,swagger,canva,figma,azure,aws,jenkins,oracle,mysql,python,c++,maven,spring,springboot,java,nodejs,typescript,javascript)](https://skillicons.dev)
+My Skills
+
+
 <img align="right" alt="baby yoda" height="150" style="border-radius:50px;" src="https://cutewallpaper.org/27/baby-yoda-gif-wallpaper/baby-yoda-gif-babyyoda-discover-share-gifs-yoda-sticker-yoda-wallpaper-yoda-drawing.gif">
 
 - Studying **Systems Analysis and Development** at [UniAmérica](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas-c/).
