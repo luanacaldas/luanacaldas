@@ -8,14 +8,6 @@ I've been passionate about technology since I can remember. As a Java Developer 
 - Engaging in challenging projects to foster my professional growth
 - Sharing knowledge and experiences with others
 
-## ⭐ Projects
-
-- **G3 Website:** Designed and developed a responsive website deployed on AWS cloud services, featuring content delivery network, low latency, advanced security, and durable storage to manage a monthly demand of 11 million requests.
-  
-- **Technical Support Scheduling Software:** Built a Java application for scheduling technical support appointments, aimed at optimizing demand management and enhancing user experience.
-
-- **To-Do List:** Developed a task list application to enhance organization and productivity in daily activities.
-
 ## ✨ Hard and Soft Skills
 
 ### Hard Skills
