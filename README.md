@@ -1,49 +1,42 @@
-## ☕ Hey there, I'm <strong>Luana!</strong>
+# Hi there, I'm Luana! 👋
 
-<img align="right" alt="baby yoda" height="150" style="border-radius:50px;" src="https://cutewallpaper.org/27/baby-yoda-gif-wallpaper/baby-yoda-gif-babyyoda-discover-share-gifs-yoda-sticker-yoda-wallpaper-yoda-drawing.gif">
+I've been passionate about technology since I can remember. As a Java Developer at Vivo, I'm currently deepening my Java and DevOps skills to further my expertise in back-end development and achieve Azure certifications. While I have front-end experience, my focus is now on back-end development, particularly with Java.
 
-- Studying **Systems Analysis and Development**.
-- Currently working as a **Java Developer** at Vivo.
-- Passionate about diving into new technologies and crafting software solutions.
-- Key **Soft Skills**: analysis, leadership, people management, proactivity, and communication.
+## 💜 Interests
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+- Exploring new technologies and innovating software solutions
+- Engaging in challenging projects to foster my professional growth
+- Sharing knowledge and experiences with others
 
-## 🚀 Hard Skills
+## ⭐ Projects
 
-**Languages**
+- **G3 Website:** Designed and developed a responsive website deployed on AWS cloud services, featuring content delivery network, low latency, advanced security, and durable storage to manage a monthly demand of 11 million requests.
+  
+- **Technical Support Scheduling Software:** Built a Java application for scheduling technical support appointments, aimed at optimizing demand management and enhancing user experience.
 
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![SQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![C++](https://skillicons.dev/icons?i=c%2B%2B)](https://skillicons.dev)
+- **To-Do List:** Developed a task list application to enhance organization and productivity in daily activities.
 
-**DevOps**
+## ✨ Hard and Soft Skills
 
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-[![Microsoft Azure](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
+### Hard Skills
+- **Java (Intermediate):** Proficient in core Java concepts, object-oriented programming, and building APIs using frameworks like Spring.
+- **DevOps (Beginner):** Experienced in utilizing Git for version control and collaboration, managing projects and CI/CD pipelines with GitLab. Actively learning and practicing Azure DevOps to expand skillset.
+- **Front-End (Intermediate):** Skilled in HTML/CSS, JavaScript, and familiar with various frameworks.
 
-**Development Tools**
+### Soft Skills
+- Teamwork
+- Communication
+- Adaptability
+- Knowledge Sharing
+- Leadership
+- Analysis
 
-[![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-[![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
+## ✉ How to reach me
 
-## 🌎 Where to Find Me
+- LinkedIn: [luanavalimm](https://www.linkedin.com/in/luanavalimm/)
+- E-mail: luanavalimm@gmail.com
+- Instagram: [luanavalimm](https://instagram.com/luanavalimm)
 
-<div> 
-  <a href="https://instagram.com/luanavalimm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luanavalimm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luanavalimm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+Let's discuss technology, software development, or any other interesting topic! 🚀
+
+> "Training is the key to success. Learn always, you must." - Master Yoda
