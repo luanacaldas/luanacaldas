@@ -37,6 +37,4 @@ I've been passionate about technology since I can remember. As a Java Developer 
 - E-mail: luanavalimm@gmail.com
 - Instagram: [luanavalimm](https://instagram.com/luanavalimm)
 
-Let's discuss technology, software development, or any other interesting topic! 🚀
-
 > "Training is the key to success. Learn always, you must." - Master Yoda
